@@ -1,1 +1,1 @@
-# MSIM601-f18
+# Introduction to Modeling and Simulation
